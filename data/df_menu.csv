@@ -1,0 +1,94 @@
+menu_name,mitra_id,menu_id,menu_description,price,photo
+Salad,80fb98d9-56fe-43ab-9082-341dfa02ae48,07e3b3aa-f7da-4c88-80fd-7f0ad0ef7463,vegan,15000,menu_images/oYmX9NRgtbKHCDuA8xZn3frH1XnZDfUCAMonSZXk.jpg
+French Fries,7d5e7cbb-4e07-401f-8e79-81030add223c,0b44188f-a2d7-4cd1-b99e-6988a48bbb8d,enak,10000,menu_images/NswUr68piWSVfqmmvDFaDfkGfUtUHOxuCRHgwGTd.jpg
+Pop Mellow,80fb98d9-56fe-43ab-9082-341dfa02ae48,0bd7da5c-cd28-4d61-b307-b396ee075882,permen wassu,5000,menu_images/0Fh04S4CwWn25p3j7nDN3IQ2GoTkdqvmXrIV8rV8.jpg
+Emping,cbcc01d1-3076-497f-b595-c52737888058,0c07af3a-c98f-4511-bf98-cc30a8818f76,emping murah,1000,menu_images/F0NGTY02gOjeJjHczbm0QdC9MbBpZdbOwHKmO0IX.jpg
+Bakso Keju,cbcc01d1-3076-497f-b595-c52737888058,10962281-8cad-4b29-b28c-2d38ef999f8f,ada keju lumer,18000,menu_images/VYrZY0pUhIsUqGVQVhGXOTEXfRbHjmn9EpgjQx53.jpg
+Es Krim Coklat,3bea8419-3079-4c0c-af7c-9c026a52bead,11e6986d-866c-4705-ab79-39d628bc0291,es krim aiceee,4000,menu_images/mn9u1Fyo1VHGLrVk5siK3ARxeRQZW8Uu1QFOoLau.jpg
+Kuotie,418e22bb-e8d8-46d0-90fa-b54981f17035,16d3ec68-6aca-41b4-9b98-4740d061aa7d,paduan daging cincang dan sayuran diolah dengan cara dikukus dan di goreng . membuat sensasi makan yg baru dilidah anda,12000,menu_images/FnmYyOowDoYBKiE7wKgwr1WMwS6aiezTIKnad4d7.jpg
+Roti Bakar Blueberry,a3145899-f2b4-4863-b7d8-97602eb21a5a,1ecf30e0-394a-4c57-8521-d65378af2691,roti blueberry,4000,menu_images/T5EmBVxLqeZx0VUneNvQRWfVowFxtfUPtdy9OFpy.jpg
+Bakso Coklat,cbcc01d1-3076-497f-b595-c52737888058,21f9ef16-9503-4087-bdc5-e530de0a09d8,coklatnya lumer,12000,menu_images/GNhptt4rRujsD1ckReASfrpr6mfyOff7I8MGMqvT.jpg
+Flat White,80fb98d9-56fe-43ab-9082-341dfa02ae48,22dc06ed-bd6a-4a01-bb1f-601f1be5bde1,kopi nya remaja banget,8000,menu_images/Qdiu4mGQ9L928dQ8dqp6VwPiMcNqzTCnnpaH74cy.jpg
+Teh Panas,80fb98d9-56fe-43ab-9082-341dfa02ae48,22e5a657-7cd5-4c49-8d80-acf1392a49d6,teh nya anak pengacara,4000,menu_images/MXDnyGUqa9Lxg0qEdXjT6lmnyw0QZJgVu1cdbEpw.jpg
+Nasi Putih,3bea8419-3079-4c0c-af7c-9c026a52bead,24901ad6-ccc9-4f48-bf7f-28cf3a79a881,nasi putih enak,3000,menu_images/Jl8zzsvbktba4FElnrAlpxBczll9INRpt5if7KSF.jpg
+Tropical Bucha,418e22bb-e8d8-46d0-90fa-b54981f17035,266975e7-4cac-4cdf-9f33-3137e35a2993,kombucha dengan rasa buah buahan,20000,menu_images/4Fy4Ht4Ipbc9PzmxyH64gJ4nQC5tY4FBvKTBQQQe.jpg
+Thai Tea,80fb98d9-56fe-43ab-9082-341dfa02ae48,2832c920-46b7-47f2-9c4b-3607094e8447,teh nya orang thailand,20000,menu_images/Yr46irWgOMqzfU0qiw6FoM8JVOh8JFADrBPHCky8.jpg
+Spicy Chicken Fingers,c819de10-ad4c-4377-9ab2-ae67b25298c0,29bfd303-51f3-4cce-8e2d-86c0e976123c,isinya 5,20000,menu_images/F4yudShhX3QNpN3O5TqtJQVvRPPhbQfDUDPf62eu.png
+Kerupuk,cbcc01d1-3076-497f-b595-c52737888058,2a3a4fcd-0819-47af-bc59-a676bfb3a739,kerupuk cok,1000,menu_images/Lty62oMln5igoUUlFkr2V1cTBtF1RXlnDfy726Ao.jpg
+Fruit Tea,cbcc01d1-3076-497f-b595-c52737888058,2a968b25-e449-4bff-931a-f3aaa3c70270,fruit tea blackcurrent,6000,menu_images/vKfye9xTUfVBYNZS8Jf7jJQj3swBBaHPukc0xYRC.jpg
+Air Mineral,a3145899-f2b4-4863-b7d8-97602eb21a5a,2db1318b-8c0f-4281-aa5e-0815746a04e8,air putih tetep bayar ga dikata galon gratis,500,menu_images/ypAMPSA7M8Mvty9nAgbMeOFcoI1VHrSKXX5felIR.jpg
+Siomay Cheese Burger,418e22bb-e8d8-46d0-90fa-b54981f17035,328eeb74-e38b-4ee3-8706-c9370e94a234,siomay ayam hangat berpadu dengan lelehan keju cheeseburger,12000,menu_images/OPedXYoy7WzDxzNjm3IX54CsHJEYGyb0ny7Tl30c.jpg
+Cookies And Cream Cake In A Cup,7d5e7cbb-4e07-401f-8e79-81030add223c,347e61de-53d5-448e-80d2-4f6f1f592a75,ada oreo,20000,menu_images/GKTL8caA6yH2UAamxMDQ9472wpnTKTUKW8dm0Dsx.jpg
+Rendang,3bea8419-3079-4c0c-af7c-9c026a52bead,350a88da-b7fc-4a38-8b46-4f0064d8ce3f,rendang mancoooss,18000,menu_images/x5g5lGRqmqZV8uZM8D6Djqpe5bHtreufpyCPd0cQ.jpg
+Strawberry Tonic,418e22bb-e8d8-46d0-90fa-b54981f17035,3802513c-9115-472d-a8dc-6959ebced1b6,tonik strobery hehe,15000,menu_images/K6cdwI9mOcPqf167sfCzmGvXsbie6t27OTIfi9bU.jpg
+Bakso Setan,cbcc01d1-3076-497f-b595-c52737888058,3a15e034-ec9e-4cfe-bf75-e3aeb613d208,bakso setan anjing,16000,menu_images/q6GWMQvzBLD0cBodoJhxBzIJ6Yc2hUMGF0Qs0yYD.jpg
+Americano,80fb98d9-56fe-43ab-9082-341dfa02ae48,3e040db4-8501-4955-a569-3a748381e03e,kopi nya anak muda,10000,menu_images/rlSAqSkR9FW7PTPVy5ofyTN2s6cy1Ebku8SgoxJ9.jpg
+Milkshake Strawberry,418e22bb-e8d8-46d0-90fa-b54981f17035,3e493727-4e00-4583-9e1f-760aaf97ec2a,tau permen milkita stroberi nah itu,15000,menu_images/U8fDBjF0MNAKIwtsaFbc5qR0Cd9yDe6oNFTjx2nS.jpg
+Sundae Strawberry,c819de10-ad4c-4377-9ab2-ae67b25298c0,3fde2fd3-ea0d-4e13-96c7-770f752354ff,es krim orkay,12000,menu_images/DXPl9ZqPceKeelm52ExcsivEGGogKunDHFRY03Uk.png
+Croissant,80fb98d9-56fe-43ab-9082-341dfa02ae48,4353bd74-ed71-485c-a63a-66b068e723eb,roti nya para buaya,15000,menu_images/6mVwHvsMMvHYN8NyfWV1BKddYe3oHSoEQqx30KXt.jpg
+Japanese,418e22bb-e8d8-46d0-90fa-b54981f17035,4cc6b829-0b5f-46a9-afcd-748a83d58297,japanese,22000,menu_images/L7XmYJ3FgxoQ9S1ArlwgRgF94oNm0mnitwvu1WAf.jpg
+Mini Cuts Spicy Chicken,c819de10-ad4c-4377-9ab2-ae67b25298c0,4dc10132-4d89-487d-971c-f54d416ed6c9,enak,20000,menu_images/qMintfYUGsAwgN7MKedcIeovzisDPaiMHfv50Bxw.png
+Paket Mcfloat + Kentang,c819de10-ad4c-4377-9ab2-ae67b25298c0,4f27a7fe-fda7-4a24-8660-f6368af71412,hedon ga?,25000,menu_images/pDxdjqjGwgUzTSp6P98QiexLaxDYgLHoj5iAMn7t.png
+Mc Flurry Eskrim,c819de10-ad4c-4377-9ab2-ae67b25298c0,560117c6-13ce-4d86-8aba-741b703b3b61,adaoreo nya,18000,menu_images/Id1K39cA5Gr2ld6lGk1tojvgeR8u2Ky06p8wt0Gs.png
+Salad,80fb98d9-56fe-43ab-9082-341dfa02ae48,61b1a337-4d51-46cc-8fc8-179430fd84f3,vegan,15000,menu_images/PsK9TN00teHhVCrj0ZblEB4g48k2JfiPHhslTo5O.jpg
+Air Mineral,cbcc01d1-3076-497f-b595-c52737888058,6317ba50-2dcd-4dd2-b596-2d3db9f1f881,air mineral,3000,menu_images/aoTMYjfCIBHxHsIzRzw0xhm0K1byJ8UEUWH4Jlba.jpg
+Choco Glass,7d5e7cbb-4e07-401f-8e79-81030add223c,638af550-55cb-4fc6-9ade-39924bc4777d,glass,8000,menu_images/gUkDvyZYwTIRZVOvSfAe4cFm4Gbtb6wxQ62kjQry.jpg
+Nescafe,a3145899-f2b4-4863-b7d8-97602eb21a5a,661000ac-309a-45b5-8d7b-41bab653e460,simple,6000,menu_images/udwKP8PAyihsb1tWPyzFrDw8MfjdZjh7JnHgRVmK.jpg
+Blackcurrent Fruit Tea,a3145899-f2b4-4863-b7d8-97602eb21a5a,69ee83ee-3a10-48f9-b115-9d99111f9900,rasa blackcurrent,6000,menu_images/yKL9PzUX3sX8uZQRcE8ZISojRe0XVS8tNPUwdmKR.jpg
+Dalgona Coffee,a3145899-f2b4-4863-b7d8-97602eb21a5a,6e0b040a-678c-4e57-a365-179a07988f59,viral nih,15000,menu_images/o6R9E77reYaMmJdJL7ueGh19D6zJOoAzgHLCzntN.jpg
+Roti Bakar Coklat Keju,a3145899-f2b4-4863-b7d8-97602eb21a5a,6e8bdf05-eefb-4d2f-8dcf-683b3b369828,coklat impor keju juga,4000,menu_images/ymNFhTEFXMceFLht9lG0S19jBq4ZXHljW3RqVR7h.jpg
+Kikil,3bea8419-3079-4c0c-af7c-9c026a52bead,78291c34-e857-41c5-b885-77151ddac002,kintil goreng,8000,menu_images/BEroH93nUheN84iiPHQD3ohKC9bRinrD6sRnAQse.jpg
+Roti Bakar Messes,a3145899-f2b4-4863-b7d8-97602eb21a5a,7d23588c-aafc-4f03-b178-d8b95e74aff0,Roti Bakar Messes,5000,menu_images/zTmTPkz5k6grNEeei1wNIiBfvsBS0d5GsCDm2QA3.jpg
+Ayam Bakar Spesial,3bea8419-3079-4c0c-af7c-9c026a52bead,7f0486c3-7c0d-49b9-97a5-c3ad7e2353f0,ayam gosong bakar,15000,menu_images/qIVrZEJgbCGl9ViD7X7qIKo2vbTgL4b5oKkLNO51.jpg
+Kopi Daun,a3145899-f2b4-4863-b7d8-97602eb21a5a,81b1eab9-1a01-4649-a501-8dbf4b767f8b,corak daon,10000,menu_images/d4kMS2BLryAdAg3wd68XUtTYYYfLmfgWZ6MvPqHk.jpg
+Nori,418e22bb-e8d8-46d0-90fa-b54981f17035,8655e6cb-ec70-456d-bf6d-9721fc529218,olahan daging ayam cincang kukus dibalut dengan nori,12000,menu_images/HK99AqRSZci24N7ogmVvv9FIwZpQ4yrViElxC58M.jpg
+Hazelnut Latte,418e22bb-e8d8-46d0-90fa-b54981f17035,86a673a5-dc4b-49eb-b612-315eec7d1c07,es kopi rasa hazelnut,15000,menu_images/JTtVotA2DeVtynzDev5oz6A7MgKjhJkWlwib4S5j.jpg
+Telur Balado,3bea8419-3079-4c0c-af7c-9c026a52bead,885842ec-1467-4ee0-a5e4-0792dc03cefe,balado pedes mancuus,8000,menu_images/2nbyLHBmiFI79N3exwZPWgsDukRtHk7nChqUyG0j.jpg
+Pisang Goreng,80fb98d9-56fe-43ab-9082-341dfa02ae48,894e0bf5-d139-4aba-9161-70e7b4c59fd5,isi 3,6000,menu_images/8u1PhfGUQ8XyGj0R8miq1asORuLcNMWbba6rZnlI.jpg
+Es Krim Vanilla,3bea8419-3079-4c0c-af7c-9c026a52bead,8be64a83-8489-4ec8-ab26-d20f1f95c509,es krim vanilla,6000,menu_images/HbbegEZBexC5sicGJasJUZXot44izDa6s8BWIeO1.jpg
+Lemon Tea,80fb98d9-56fe-43ab-9082-341dfa02ae48,8fd0e5bf-1419-4c36-8d5b-a0d26d5e26b1,teh nya orang sehat,8000,menu_images/vIDI4ZA0UgP6ENIl8KQm7VTr5WoI1B3GuYxIQIzA.jpg
+Kentang Biji Salak,7d5e7cbb-4e07-401f-8e79-81030add223c,90412858-d297-4c4f-aa1d-ab74623d16ac,bukan kolak,12000,menu_images/wTxXpBAWhMryCyHQzR4tySUT4tdatni2aODUVSk8.jpg
+Pink Lava,7d5e7cbb-4e07-401f-8e79-81030add223c,915f1880-e580-429a-b4f7-da679d275427,pinkies boy,12000,menu_images/UARCw0i8tXSvSgcjlqYng0oxwR7s6u3uwqCPGN8R.jpg
+Sundae Chocolate,c819de10-ad4c-4377-9ab2-ae67b25298c0,91bdf9c2-4139-4545-bbe0-2808b420fa1a,eskrim nya orkay,12000,menu_images/ZbWTzMeZ7hfvyPOPnZuV4GdeOzKVQLocvKl66iMB.png
+Kopi Indonesia,a3145899-f2b4-4863-b7d8-97602eb21a5a,91f24221-733e-454d-9bc1-d92a9e906892,kopinya para aktivis,25000,menu_images/rnbASDq9075YhTnExLeA7b6vJejrBMmo8DoOviTA.jpg
+Mie Jumbo,cbcc01d1-3076-497f-b595-c52737888058,92784340-bafa-4bf5-892d-dd72a334e9da,mie jumbo membuat anda usus buntu,50000,menu_images/4jEHliG8WRv5u8n2IY5Hy8dUatEsvT2wXV7O2QoJ.jpg
+Espresso,80fb98d9-56fe-43ab-9082-341dfa02ae48,939dbc37-bd70-4d7d-b7c9-208fa74b66c6,kopi nya orang tua,10000,menu_images/raPMEPL5kOZP7T0mV0jaNjWhNIlzSMyEhOgbaeeT.jpg
+Paket Burger Sapi Asli,c819de10-ad4c-4377-9ab2-ae67b25298c0,94e33f10-b81d-4f56-890e-93fe9148305e,sapi daging asli bukan air,30000,menu_images/KCS8C57y7eKBCNjLz7jWtd2OC35TqimDtQoMNDKs.png
+Machiato,80fb98d9-56fe-43ab-9082-341dfa02ae48,97935159-31d8-4ab9-b220-aa2044878086,Kopinya anak muda,16000,menu_images/GXAXJicHxZV99u3abGzbWb2gOF9rO802qYZ6Wew2.jpg
+Jus Alpukat,3bea8419-3079-4c0c-af7c-9c026a52bead,9a0ec016-1b71-4091-95f1-2d968a5bb8e0,jus alpukat,10000,menu_images/wWYOyVc5M1BLc3qsQl6sXmrEEce1X3P3xqFFjvOd.jpg
+Jus Mangga,3bea8419-3079-4c0c-af7c-9c026a52bead,9a7ec877-1937-4138-91de-427b4aa25dab,mangga busuk,10000,menu_images/SsBlM7c7ehQ5tEsvmDCAvtftH6rxZLlQCRJ10CSx.jpg
+Ayam Goreng,3bea8419-3079-4c0c-af7c-9c026a52bead,9e58b2ae-61e2-4122-86c2-bb0fbd9612fb,ayam goreng kering,15000,menu_images/dKvhhz8f6VeoSRSxJP0AaIVqXxgPa1UvB7IN7xan.jpg
+Choco Cone,7d5e7cbb-4e07-401f-8e79-81030add223c,a0876fd3-3c02-403b-93b8-39e885d2d36c,cone,5000,menu_images/0YYuD7ZWjLlBwOUsQiRrKMeQhz1isZoZMPNW43Yf.jpg
+Caramel Latte,418e22bb-e8d8-46d0-90fa-b54981f17035,a2ae096e-49a2-45fe-8a66-494b97366482,latte dengan syrup caramel,15000,menu_images/FOEFdxIwO4xlluNU6Wzlmv69GaLP9z2XdsHIYPgy.jpg
+Kombucha Ori,418e22bb-e8d8-46d0-90fa-b54981f17035,a378903c-adfc-44a5-872f-1feed36c7b49,ini enak juga cobain dulu aja,18000,menu_images/I7Sssm7gFEUw25oOf6DCKB0ndxUBjyPVy5Aex0Cz.jpg
+Iced Coffee Raspberry,c819de10-ad4c-4377-9ab2-ae67b25298c0,a773f5a3-2af4-4c56-b5c8-268944e6a8d3,Iced Coffee Rasp,15000,menu_images/khVDwANISCwYkJjyJRRMCo1woyv6Z69Xo22qyCG3.png
+Chicken Snack,c819de10-ad4c-4377-9ab2-ae67b25298c0,a9b7dc61-6f1c-4170-9b1a-6749be3f1a5b,chicken broow,16000,menu_images/P270xXa9OU3rHCWQpYw3dDCeBA5BmO8B6GwTSdEy.png
+Choco Berry,418e22bb-e8d8-46d0-90fa-b54981f17035,b0192632-5462-499c-9b56-08db6571bcc3,ini enak bat coklat sm strobery gaada obat,15000,menu_images/jDkjwAhe0p25I6jJxVjD9DLR8uN1sa2Piz8fNzau.jpg
+Bakmie Cilok,cbcc01d1-3076-497f-b595-c52737888058,b4d04c6e-f933-496c-a6b0-62cfb4d1b1e3,ada aci nya bous,15000,menu_images/MoF1SbKyZ2dtn6FEbajtbAbzIF125Ib0l8yOA19K.jpg
+Choco Pie,c819de10-ad4c-4377-9ab2-ae67b25298c0,b5234ce8-bfb7-4ba3-b9f5-3c1c9bd81e70,double bro,12000,menu_images/s7ekjyQDzioeIM7Gcy9Wax94NTy1MkBauFmqZ1x2.png
+Love Coffee,a3145899-f2b4-4863-b7d8-97602eb21a5a,b8e3e74f-a4a9-4801-8751-0b498bb4335e,Cocok buat menyatakan perasaan,10000,menu_images/CR5vbMp427ASOfJ6eh4vsxIsYQWHe8ViPRumc2cO.jpg
+Fruit Tea Lemon,a3145899-f2b4-4863-b7d8-97602eb21a5a,bf8775fe-74cf-44a1-823e-98c367c0e131,Fruit Tea Rasa Lemon,6000,menu_images/L3FRFFfsPnNfZLUvjqDAuory09Z7QfhEUnvAupKJ.jpg
+Choco Lava,80fb98d9-56fe-43ab-9082-341dfa02ae48,c1325adb-f288-425b-b4db-5cbdbf724dae,lumer coklat,20000,menu_images/UnUb9IX9IDcx2SdHaw8vuPzvvAYZzjXH1IDHWDpo.jpg
+Mojito,418e22bb-e8d8-46d0-90fa-b54981f17035,c8be90a9-3029-460b-89da-e8cd7748bf24,mojito aja udah seger pokona,15000,menu_images/sl7UOEmwNsfrQ2pcqwk2q45imjKQPWjxUwpXm0nH.jpg
+Nasi,7d5e7cbb-4e07-401f-8e79-81030add223c,c9302402-74e3-41f4-8f11-edb87e87c740,nasi coy,4000,menu_images/E9oeOfWD91PuKEAFaH7lQrRAbSOaGug7KRM91Yyh.jpg
+Ayam Original,7d5e7cbb-4e07-401f-8e79-81030add223c,cc8e6131-50d9-4523-8e59-a346d029b71e,original dong,18000,menu_images/n7ErnAMlWxRzUAJuuU1gxYkLkTMwXZvFXgL6bVAF.jpg
+402,418e22bb-e8d8-46d0-90fa-b54981f17035,cd71b07c-6195-4b1c-8b0d-41d7d248a3fe,nikmati minuman sejuk sesejuk kedalaman lokasi 402,15000,menu_images/M5eUeIXVzWSIq0p6DysW3eoW4q7c9sXq7e6UiMci.jpg
+Paket Hemat,c819de10-ad4c-4377-9ab2-ae67b25298c0,cf484e0f-42f6-48bb-9cdd-af5fd99c5ab7,hematt dongg,28000,menu_images/sT0rDS823ldUwv95sOVKdk2kGKUqq26Ncq7Hqn8F.png
+Paket Ber-5,c819de10-ad4c-4377-9ab2-ae67b25298c0,d0b9e8cc-dcb1-44fc-8195-62f97a8dbc95,paket ber 5,60000,menu_images/o1RG2LjnsA0RSEciPG2OonKMQwCHwvapdVRIJqJX.png
+Fruit Tea Apple,cbcc01d1-3076-497f-b595-c52737888058,d369eede-5cb4-4811-81e8-4f42e3efc69a,rasa apel,6000,menu_images/f48gw3QJiRQu2UIbmRNkktA7JFkiK0WzuWjHx2ZZ.jpg
+Sandbun Chicken Spicy,418e22bb-e8d8-46d0-90fa-b54981f17035,d377038a-b4b0-412f-a73e-1891e1b9b49d,bapao sandwich diisi dengan olahan ayam krispy pedas dibalur saos tartar membuat perpaduan cita rasa baru di mulut anda,8000,menu_images/LpgrsCPiRgY9qUE4sCndp7cWYQkW1W9FQsruJPVj.jpg
+Fruit Tea Apple,a3145899-f2b4-4863-b7d8-97602eb21a5a,d5b2f98e-b22a-48eb-9c3d-d14b05f344bd,rasa apel,6000,menu_images/jQ32fyUhKgTbeJuRj0iuGOPJz1btNvZXOwW2StrB.jpg
+Kopi Item,a3145899-f2b4-4863-b7d8-97602eb21a5a,d64390b6-6f54-4257-a346-3f3d843c22b5,kopinya orang tua,2000,menu_images/w57wdVDBiXUCp1o90lEMwPJfLWMyA349fl4RNDd2.jpg
+Fruitarian,7d5e7cbb-4e07-401f-8e79-81030add223c,d74afb55-ddb7-420a-b7c8-40bf0931a253,sehat banget,15000,menu_images/fo07sOF0ckXeEAuhUTzuBVo82Z7WrNKS3j6UfeSw.jpg
+Vietnam Drip,418e22bb-e8d8-46d0-90fa-b54981f17035,d88151fd-75d5-4104-885c-ffdc0ceb7010,pendekar kopi tapi pake susu,22000,menu_images/Buedy8ZyECBUjkP8F3QJ2WtBkkPRb3VYXbH5SWX8.jpg
+Es Kelapa Muda,eac50c3b-c995-4b56-8dbb-e1299fcc9b58,dc74d628-461a-4139-91c1-154476fafef2,Segerrr,10000,menu_images/OzXisFzHDNTk1khHuCweA6Tc0wsfTgo44yfkJE14.png
+Mie Ayam Komplit,cbcc01d1-3076-497f-b595-c52737888058,e2d195bf-ecbe-40a3-9114-f7c69efd05f0,"telur, ayam, bawang",18000,menu_images/eE8KAofrJt6w8ZGouEHwiIhnh82IjXfPilL6hNLn.jpg
+Jonos Signature,418e22bb-e8d8-46d0-90fa-b54981f17035,e5e560c8-871d-400e-b6c3-1038d1c6474c,mie jono signature,12000,menu_images/0rvxYpLDIxtmYGL5ChQayfBJYbjKe59zYpCly9vl.jpg
+Ayam Pedas,7d5e7cbb-4e07-401f-8e79-81030add223c,e7419e7f-571e-4012-b1f0-14d20b7cd2de,pedas sampe pengen buang air mancus,20000,menu_images/Gz0CVNECvtOrAuNcbCC0PsDRPEC3QHxqD5IXzhlt.jpg
+Alacarte Bbq Sauce,7d5e7cbb-4e07-401f-8e79-81030add223c,e7d6a73c-97b3-4a48-9a2f-f82cf0c1fc55,sauce enak,4000,menu_images/ExrDNypX8hyyHiF9NvAygsTsM3ghtvclxcNNT4hC.jpg
+Mie Ayam Ceker,cbcc01d1-3076-497f-b595-c52737888058,f17ad8c7-e723-44fe-a216-cbe0f2a8b616,ada ceker itik,10000,menu_images/555UM168tb9Si5nYc5XUXwaeiJVwgdDMVWAoZ1jT.jpg
+Manggo Espreso,418e22bb-e8d8-46d0-90fa-b54981f17035,f68bae98-bae9-415a-b19c-f47472fb5860,es kopi mangga,18000,menu_images/hDryHITEOyX5OdtNPQN4PdbOXIYG9WJxmOB6JFaG.jpg
+Bakso Mie Ayam,cbcc01d1-3076-497f-b595-c52737888058,f68c3fb1-24bb-4370-821f-43b8402d990b,ada baksonya,20000,menu_images/fJRuXUvlStHjqYGsNIwOlid8tvQ3lGdqFAXY9TW9.jpg
+Kids Meal 2,7d5e7cbb-4e07-401f-8e79-81030add223c,fb55584d-b945-4acf-bcb8-773181de396f,"minuman, daging ayam, nasi",30000,menu_images/g7cUudf1cuIwflU0ytVJRf2JuBOfG0nMwMwhac6y.jpg
+Kerupuk Udang,cbcc01d1-3076-497f-b595-c52737888058,fd72f7e1-f3a9-484d-aa8e-f0c5b2d9e630,kerupuk rasa udang,1000,menu_images/LH3XAmFiC91IOeWF9e5K50QNInxvIgLoMTw8QF5g.jpg
+V60,418e22bb-e8d8-46d0-90fa-b54981f17035,fe40ff81-0e74-4889-8d63-f209f7c9387b,pendekar kopi pasti suka,22000,menu_images/Ye2nolCO8EMndlxTV7d5NbZUM6C898WHZSyzSOZe.jpg
