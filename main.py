@@ -36,8 +36,8 @@ async def get_recommendation(id: str):
 
     if len(df[df['user_id'] == id]) == 0:
         recommendation = list(cf.top_five_recommend_menu(df).index)
-
         recommendation_data = cf.get_menu(df, recommendation)
+        status = "top-five"
     
     else:
         interactions_matrix = cf.user_item_matrix(df)
@@ -46,8 +46,9 @@ async def get_recommendation(id: str):
         recommendation = cf.recommendations(id, 5, interactions_matrix, interactions_matrix)
 
         recommendation_data = cf.get_menu(df, recommendation)
+        status = "top-recommend-user"
 
-    return {"id": id, "recommendation": recommendation_data}
+    return {"id": id, "status": status, "recommendation": recommendation_data}
 
 @app.get('/api/v1/menu/top-five')
 async def top_five():
@@ -61,11 +62,11 @@ async def top_five():
 
 
 # MAIN
-df = cf.read_dataset()
-interactions_matrix = cf.user_item_matrix(df)
+# df = cf.read_dataset()
+# interactions_matrix = cf.user_item_matrix(df)
 
-result = []
+# result = []
 
-result = cf.recommendations("12703b56-b204-4d37-b517-a68c01290306", 5, interactions_matrix, interactions_matrix)
-data = cf.get_menu(df, result)
-print(data)
+# result = cf.recommendations("12703b56-b204-4d37-b517-a68c01290306", 5, interactions_matrix, interactions_matrix)
+# data = cf.get_menu(df, result)
+# print(data)
