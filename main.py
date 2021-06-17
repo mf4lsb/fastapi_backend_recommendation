@@ -33,12 +33,19 @@ async def get_recommendation_w_token(token: str, id: str):
 @app.get('/api/v1/menu/{id}/recommendation')
 async def get_recommendation(id: str):
     df = cf.read_dataset()
-    interactions_matrix = cf.user_item_matrix(df)
 
-    recommendation = []
-    recommendation = cf.recommendations(id, 5, interactions_matrix, interactions_matrix)
+    if len(df[df['user_id'] == id]) == 0:
+        recommendation = list(cf.top_five_recommend_menu(df).index)
 
-    recommendation_data = cf.get_menu(df, recommendation)
+        recommendation_data = cf.get_menu(df, recommendation)
+    
+    else:
+        interactions_matrix = cf.user_item_matrix(df)
+
+        recommendation = []
+        recommendation = cf.recommendations(id, 5, interactions_matrix, interactions_matrix)
+
+        recommendation_data = cf.get_menu(df, recommendation)
 
     return {"id": id, "recommendation": recommendation_data}
 
