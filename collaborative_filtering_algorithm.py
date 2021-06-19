@@ -174,7 +174,7 @@ def get_menu(df, recommendation):
             "restaurant_type": df_temp2['restaurant_type'].values[0],
             "photo": df_temp2['photo'].values[0],
         }
-        recommendation_data.append([temp, temp2])
+        recommendation_data.append({"menu": temp, "restaurant": temp2})
     return recommendation_data
 
     
