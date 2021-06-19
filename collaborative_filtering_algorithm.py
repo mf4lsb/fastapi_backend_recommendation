@@ -150,18 +150,31 @@ def top_five_recommend_menu(df):
 
 def get_menu(df, recommendation):
     df_menu = pd.read_csv('data/df_menu.csv')
+    df_resto = pd.read_csv('data/df_resto.csv')
     
     recommendation_data = []
     for id in recommendation:
+        df_temp = df_menu[df_menu['menu_id'] == id]
+        df_temp2 = df_resto[df_resto['id'] == df_temp['mitra_id'].values[0]]
         temp = {
-            "mitra_id": df_menu[df_menu['menu_id'] == id]['mitra_id'].values[0],
+            "mitra_id": df_temp['mitra_id'].values[0],
             "id": id,
-            "name": df_menu[df_menu['menu_id'] == id]['menu_name'].values[0],
-            "description": df_menu[df_menu['menu_id'] == id]['menu_description'].values[0],
+            "name": df_temp['menu_name'].values[0],
+            "description": df_temp['menu_description'].values[0],
+            "price": float(df_temp['price'].values[0]), # in fast api you have to declare what's of the type of data, except string
             "average_rating": f"{df[df['menu_id'] == id]['rating'].mean():,.2f}",
-            "photo": df_menu[df_menu['menu_id'] == id]['photo'].values[0],
+            "photo": df_temp['photo'].values[0],
         }
-        recommendation_data.append(temp)
+        temp2 = {
+            "restaurant_name": df_temp2['restaurant_name'].values[0],
+            "address": df_temp2['address'].values[0],
+            "open": df_temp2['open'].values[0],
+            "close": df_temp2['close'].values[0],
+            "restaurant_description": df_temp2['restaurant_description'].values[0],
+            "restaurant_type": df_temp2['restaurant_type'].values[0],
+            "photo": df_temp2['photo'].values[0],
+        }
+        recommendation_data.append([temp, temp2])
     return recommendation_data
 
     
